@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="values_text_size">36sp</dimen>
+    <dimen name="values_text_size_triple">24sp</dimen>
+    <dimen name="values_text_size_tetra">20sp</dimen>
+    <dimen name="labels_text_size">24sp</dimen>
+</resources>
